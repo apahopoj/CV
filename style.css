@@ -2,12 +2,36 @@ body
 {
 color:#282425;  
 background-color: #fff1e6 ;
+font-family: 'Raleway', sans-serif;
 }
 
 h1,
 h2,
-h3,
+strong,
 a
 {
 color: #756158;    
+font-family: 'Playfair Display', serif;
 }
+
+.bocni{
+background-color: #f9e3d0;
+overflow: auto;
+float: left;
+padding: 70px 20px;
+}
+
+.hlavni
+{    
+overflow: auto;
+padding: 30px 20px;
+}
+
+.fotka
+{
+width: 200px;
+border-radius: 50%;   
+border: 2px solid #756158; 
+}
+
+
